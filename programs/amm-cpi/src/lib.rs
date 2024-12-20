@@ -7,6 +7,7 @@
 pub mod context;
 pub mod instructions;
 pub mod library;
+pub mod states;
 
 pub use context::*;
 pub use instructions::*;
